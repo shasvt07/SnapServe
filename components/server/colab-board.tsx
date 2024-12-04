@@ -34,7 +34,7 @@ export function ColabBoard({
 //   const Icon = iconMap[channel.type];
 
   const onClick = () =>
-    window.open(`https://https://snap-serve-collab-board.vercel.app/server/${serverId}`);
+    window.open(`https://snap-serve-collab-board.vercel.app/server/${serverId}`);
 
   return (
     <button
